@@ -1,0 +1,29 @@
+{"level":"info","message":"/api/products?productID=1&userID=91&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products?productID=1&userID=91&rating=5-{} TypeError: Cannot read properties of undefined (reading 'split')","service":"request-logging"}
+{"level":"info","message":"/api/products?productID=1&userID=91&rating=5-{}","service":"request-logging"}
+{"level":"info","message":"/api/products?productID=1&userID=91&rating=5-{} TypeError: Cannot read properties of undefined (reading 'split')","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"name\":\"sai\",\"email\":\"seller@ecom.com\",\"password\":\"password1\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"name\":\"sai\",\"email\":\"seller@ecom.com\",\"password\":\"password1\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"name\":\"sai\",\"email\":\"seller@ecom.com\",\"password\":\"password1\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"name\":\"sai\",\"email\":\"seller@ecom.com\",\"password\":\"password1\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"name\":\"saiwe\",\"email\":\"seller@ecom.com\",\"password\":\"password1\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signin-{} SyntaxError: Expected double-quoted property name in JSON at position 76","service":"request-logging"}
+{"level":"info","message":"/api/users/signin-{} SyntaxError: Expected double-quoted property name in JSON at position 76","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"name\":\"saiwe\",\"email\":\"seller@ecom.com\",\"password\":\"password1\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"name\":\"sai\",\"email\":\"seller@ecom.com\",\"password\":\"password1\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"email\":\"seller@ecom.com\",\"password\":\"password1\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"email\":\"seller@ecom.com\",\"password\":\"password\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"email\":\"seller@ecom.com\",\"password\":\"password\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"name\":\"sai\",\"email\":\"seller@ecom.com\",\"password\":\"password1\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/users/signup-{\"name\":\"saiwwww\",\"email\":\"sellerww@ecom.com\",\"password\":\"password1\",\"type\":\"seller\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/api/users/signUp-{\"name\":\"cninjas\",\"email\":\"cn@gmail.com\",\"password\":\"abcdef\"}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
+{"level":"info","message":"/api/products-{} SyntaxError: Expected double-quoted property name in JSON at position 75","service":"request-logging"}
+{"level":"info","message":"/api/products-{} SyntaxError: Expected double-quoted property name in JSON at position 75","service":"request-logging"}
+{"level":"info","message":"/api/products-{}","service":"request-logging"}
